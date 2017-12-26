@@ -32,6 +32,10 @@
         "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\layout\\static_img_detection.xml"
     },
     {
+        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cap.png.flat",
+        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\ic_cap.png"
+    },
+    {
         "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
         "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
     },

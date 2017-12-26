@@ -1,4 +1,4 @@
-#Tue Dec 26 17:20:26 CST 2017
-base.0=E\:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Dec 26 20:07:32 CST 2017
+base.0=E\:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
-file.0=E\:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+file.0=E\:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

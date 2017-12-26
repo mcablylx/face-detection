@@ -6,6 +6,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
+    android:id="@+id/rlRootView"
     >
     <Button
         android:id="@+id/get_image"

@@ -32,9 +32,10 @@ public final class R {
   public static final class drawable {
     public static final int female=0x7f020000;
     public static final int hint=0x7f020001;
-    public static final int icon=0x7f020002;
-    public static final int male=0x7f020003;
-    public static final int test1=0x7f020004;
+    public static final int ic_cap=0x7f020002;
+    public static final int icon=0x7f020003;
+    public static final int male=0x7f020004;
+    public static final int test1=0x7f020005;
   }
   public static final class id {
     public static final int any=0x7f030000;
@@ -47,7 +48,8 @@ public final class R {
     public static final int id_age_and_gender=0x7f030007;
     public static final int id_photo=0x7f030008;
     public static final int id_waitting=0x7f030009;
-    public static final int scroll=0x7f03000a;
+    public static final int rlRootView=0x7f03000a;
+    public static final int scroll=0x7f03000b;
   }
   public static final class layout {
     public static final int face_detect_surface_view=0x7f040000;

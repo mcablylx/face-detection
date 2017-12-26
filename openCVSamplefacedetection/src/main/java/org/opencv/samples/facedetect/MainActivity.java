@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 
@@ -31,6 +32,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * If there is no bug, Created by Mcablylx on 2017-12-26.
@@ -39,6 +42,7 @@ import java.io.InputStream;
  */
 
 public class MainActivity extends Activity implements View.OnClickListener {
+    private ViewGroup rootView;
     private static final int PICK_CODE = 1;
     //选个照片
     private Button get_image;
@@ -53,6 +57,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     private CascadeClassifier mJavaDetector;
     private DetectionBasedTracker mNativeDetector;
+    ImageView imageView;
+    private List<ImageView> imageViews;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,6 +77,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         get_image = (Button) findViewById(R.id.get_image);
         detect = (Button) findViewById(R.id.detect);
         id_photo = (ImageView) findViewById(R.id.id_photo);
+        rootView = (ViewGroup) findViewById(R.id.rlRootView);
+        imageViews = new ArrayList<>();
     }
 
     @Override
@@ -119,16 +127,19 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 mJavaDetector.detectMultiScale(testmat, facedetect);
                 System.out.println("zzzzzzzzzzzzzzzzzz" + facedetect.toArray().length);
 
-                int facenum = 0;
                 for (Rect rect : facedetect.toArray()) {
-//                    Core.rectangle(testmat, new Point(rect.x, rect.y), new Point(
-//                            rect.x + rect.width, rect.y + rect.height), new Scalar(
-//                            255, 0, 0));
-                    ++facenum;
-
                     Imgproc.rectangle(testmat, new Point(rect.x, rect.y), new Point(
                             rect.x + rect.width, rect.y + rect.height), new Scalar(
                             255, 0, 0), 3);
+
+                    imageView = new ImageView(MainActivity.this);
+                    imageView.setImageResource(R.drawable.ic_cap);
+                    ViewGroup.LayoutParams lp = new ViewGroup.LayoutParams(rect.width, rect.height);
+                    imageView.setLayoutParams(lp);
+                    imageView.setX(rect.x + rect.width);
+                    imageView.setY(rect.y);
+                    rootView.addView(imageView);
+                    imageViews.add(imageView);
                 }
                 Utils.matToBitmap(testmat, myBitmapImage);
                 id_photo.setImageBitmap(myBitmapImage);
@@ -144,6 +155,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         public void onManagerConnected(int status) {
             switch (status) {
                 case LoaderCallbackInterface.SUCCESS:
+                    //初始化opencv成功的回调
                     break;
                 default: {
                     super.onManagerConnected(status);
@@ -194,6 +206,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 //这个jar包要求请求的图片大小不得超过3m所以要进行一个压缩图片操作
                 resizePhoto();
                 id_photo.setImageBitmap(myBitmapImage);
+
+                if (imageViews.size() > 0) {
+                    for (ImageView imageView : imageViews) {
+                        rootView.removeView(imageView);
+                    }
+                    imageViews.clear();
+                }
+
             }
         }
     }

@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=E:\study\face-detection\openCVLibrary340\build\intermediates\intermediate-jars\debug\classes.jar
+FILE_HASH=f17e1639ea9ccd2c7b87b32b26fda3c9d9dcddb7
+DX_VERSION=1.13
+JUMBO_MODE=false
+OPTIMIZE=true
