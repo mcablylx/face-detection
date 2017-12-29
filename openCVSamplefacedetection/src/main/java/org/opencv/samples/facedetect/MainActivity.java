@@ -165,16 +165,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         }
     };
 
-
-    static {
-        Log.i("FUCK", "OpenCV library load!");
-        if (!OpenCVLoader.initDebug()) {
-            Log.i("FUCK", "OpenCV load not successfully");
-        } else {
-            System.loadLibrary("detection_based_tracker");// load other libraries
-        }
-    }
-
     @Override
     public void onResume() {
         super.onResume();
@@ -183,8 +173,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
             //OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION_3_0_0, this, mLoaderCallback);
         } else {
             Log.d("FUCK", "OpenCV library found inside package. Using it!");
-            mLoaderCallback.onManagerConnected(LoaderCallbackInterface.SUCCESS);
         }
+        mLoaderCallback.onManagerConnected(LoaderCallbackInterface.SUCCESS);
     }
 
     @Override
