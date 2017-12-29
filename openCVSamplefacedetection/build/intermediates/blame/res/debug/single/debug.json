@@ -12,6 +12,10 @@
         "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\female.png"
     },
     {
+        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_ccc.png.flat",
+        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\ccc.png"
+    },
+    {
         "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_female.png.flat",
         "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\female.png"
     },

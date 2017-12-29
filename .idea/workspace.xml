@@ -11,39 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43558c26-b9be-4291-bcc0-e369ed597c84" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9ovfIJmVuYjija1py_Ur2VoEH68=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/9ovfIJmVuYjija1py_Ur2VoEH68=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/zip-cache/3HktVqouAsg54UFOAa1v+G_LmlM=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/BuildConfig.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/DetectionBasedTracker.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/FdActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/FdActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/MainActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/MainActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/1/org/opencv/samples/facedetect/R.dex" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/ccc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/fileHashes/jvmClassSignatures.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0-milestone-1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/MainActivity$1.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/classes/debug/org/opencv/imgproc/Imgproc.class" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/classes/debug/org/opencv/imgproc/Imgproc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/intermediate-jars/debug/classes.jar" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/intermediate-jars/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/MainActivity.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$drawable.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$id.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$id.class" />
@@ -51,37 +33,28 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$raw.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$string.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$styleable.class" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/classes/debug/org/opencv/samples/facedetect/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/zip-cache/nC5hhsUTpOEqsKQFz6V+ulHpv8o=" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/zip-cache/nC5hhsUTpOEqsKQFz6V+ulHpv8o=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/res/debug/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout_static_img_detection.xml.flat" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout_static_img_detection.xml.flat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/MainActivity.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/MainActivity.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$drawable.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$drawable.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$id.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$id.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$layout.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$layout.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$raw.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$raw.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$string.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$string.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$styleable.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/2/org/opencv/samples/facedetect/R$styleable.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/outputs/apk/debug/openCVSamplefacedetection-debug.apk" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/outputs/apk/debug/openCVSamplefacedetection-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary340/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java" afterPath="$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/generated/source/r/debug/org/opencv/samples/facedetect/R.java" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/generated/source/r/debug/org/opencv/samples/facedetect/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/blame/res/debug/single/debug.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/build-info/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/build/outputs/apk/debug/output.json" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/build/outputs/apk/debug/output.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml" afterPath="$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,14 +79,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="140" column="48" lean-forward="true" selection-start-line="140" selection-start-column="48" selection-end-line="140" selection-end-column="48" />
+            <state relative-caret-position="469">
+              <caret line="146" column="22" lean-forward="false" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1213#2140#0" expanded="true" />
+                <element signature="e#1899#2096#0" expanded="true" />
+                <element signature="e#2095#2096#0" expanded="true" />
+                <element signature="e#2139#2140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Imgproc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60122">
+              <caret line="2632" column="13" lean-forward="false" selection-start-line="2632" selection-start-column="13" selection-end-line="2632" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="851">
-              <caret line="37" column="79" lean-forward="false" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+            <state relative-caret-position="194">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -165,14 +164,14 @@
       </file>
       <file leaf-file-name="static_img_detection.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="31" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -2830,9 +2829,11 @@
         <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/jni/Application.mk" />
         <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/jni/Android.mk" />
         <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/FdActivity.java" />
-        <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml" />
         <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java" />
+        <option value="$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java" />
+        <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity2.java" />
+        <option value="$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2860,10 +2861,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2998,8 +2995,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="face-detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="face-detection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openCVSamplefacedetection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facedetect" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3368,7 +3399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514282731797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="设置帽子的位置">
+      <created>1514290169440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514290169440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -3399,8 +3437,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2837541" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3457,7 +3495,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加个帽子" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加个帽子" />
+    <MESSAGE value="设置帽子的位置" />
+    <MESSAGE value="测试android自带眼睛识别" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试android自带眼睛识别" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3485,6 +3525,69 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60122">
+          <caret line="2632" column="13" lean-forward="false" selection-start-line="2632" selection-start-column="13" selection-end-line="2632" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/raw/lbpcascade_frontalface.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/DetectionBasedTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/FdActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="123" selection-end-column="5" />
+          <folding>
+            <element signature="class#1869:4050" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="79" lean-forward="false" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3530,14 +3633,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
           <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
@@ -3558,18 +3661,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-529">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/face_detect_surface_view.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/android/Camera2Renderer.java">
@@ -3636,27 +3740,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/test1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://E:/sdk/platforms/android-21/data/res/values/themes.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="440" column="17" lean-forward="false" selection-start-line="440" selection-start-column="17" selection-end-line="440" selection-end-column="17" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="79" lean-forward="false" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/android/CameraBridgeViewBase.java">
@@ -3679,7 +3767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3701,17 +3788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/core/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -3720,14 +3796,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/openCVLibrary340/src/main/java/org/opencv/imgproc/Imgproc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60122">
+          <caret line="2632" column="13" lean-forward="false" selection-start-line="2632" selection-start-column="13" selection-end-line="2632" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="140" column="48" lean-forward="true" selection-start-line="140" selection-start-column="48" selection-end-line="140" selection-end-column="48" />
+        <state relative-caret-position="469">
+          <caret line="146" column="22" lean-forward="false" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/hint.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/female.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/res/drawable/test1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/java/org/opencv/samples/facedetect/MainActivity2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1213#2140#0" expanded="true" />
+            <element signature="e#1899#2096#0" expanded="true" />
+            <element signature="e#2095#2096#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVSamplefacedetection/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
   </component>
