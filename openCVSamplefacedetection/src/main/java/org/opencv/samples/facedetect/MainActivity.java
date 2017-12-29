@@ -14,6 +14,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import org.opencv.android.BaseLoaderCallback;
 import org.opencv.android.LoaderCallbackInterface;
@@ -119,13 +120,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 }
 
                 Mat testmat = new Mat();
-                System.out.println("cccccccccxxxxxxxxxxxxccccccc" + myBitmapImage);
+                if (myBitmapImage == null){
+                    Toast.makeText(MainActivity.this, "选个照片啊",Toast.LENGTH_LONG).show();
+                    break;
+                }
                 Utils.bitmapToMat(myBitmapImage, testmat);
-                System.out.println("xxxxxxxxxxxxxxxxxxxxxx" + testmat);
                 MatOfRect facedetect = new MatOfRect();
 
                 mJavaDetector.detectMultiScale(testmat, facedetect);
-                System.out.println("zzzzzzzzzzzzzzzzzz" + facedetect.toArray().length);
 
                 for (Rect rect : facedetect.toArray()) {
                     Imgproc.rectangle(testmat, new Point(rect.x, rect.y), new Point(

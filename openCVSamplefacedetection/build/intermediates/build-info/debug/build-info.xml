@@ -3,12 +3,12 @@
     build-mode="FULL"
     format="10"
     plugin-version="3.0.0-alpha3"
-    timestamp="1514543608418"
+    timestamp="1514545027150"
     verifier="NOT_RUN" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="63" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -19,9 +19,17 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="E:\study\face-detection\openCVSamplefacedetection\build\outputs\apk\debug\openCVSamplefacedetection-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1514543608418"
-        verifier="NOT_RUN" />
+        timestamp="1514545027150"
+        verifier="NOT_RUN" >
+        <artifact
+            location="E:\study\face-detection\openCVSamplefacedetection\build\outputs\apk\debug\openCVSamplefacedetection-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>
