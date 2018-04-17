@@ -1,1 +1,1 @@
-[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"outputFile":{"path":"E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\debug\\resources-debug.ap_"},"properties":{"packageId":"org.opencv.samples.facedetect","split":""}}]
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"path":"resources-debug.ap_","properties":{"packageId":"org.opencv.samples.facedetect","split":"","minSdkVersion":"18"}}]

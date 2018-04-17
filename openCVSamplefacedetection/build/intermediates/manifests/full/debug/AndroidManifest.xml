@@ -5,7 +5,7 @@
     android:versionName="3.01" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="18"
         android:targetSdkVersion="21" />
 
     <supports-screens

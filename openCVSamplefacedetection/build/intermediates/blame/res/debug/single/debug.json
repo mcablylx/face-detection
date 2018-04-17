@@ -1,74 +1,42 @@
 [
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_test1.jpg.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\test1.jpg"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_female.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/female.png"
     },
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_static_img_detection.xml.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\layout\\static_img_detection.xml"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_test1.jpg.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/test1.jpg"
     },
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_female.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\female.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout_static_img_detection.xml.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/layout/static_img_detection.xml"
     },
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_ccc.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\ccc.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_ic_cap.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/ic_cap.png"
     },
     {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_female.png.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\female.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_hint.9.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/hint.9.png"
     },
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_male.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\male.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_male.png.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\male.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_ccc.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/ccc.png"
     },
     {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/raw_lbpcascade_frontalface.xml.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/raw/lbpcascade_frontalface.xml"
     },
     {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_static_img_detection.xml.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\layout\\static_img_detection.xml"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/drawable_male.png.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/drawable/male.png"
     },
     {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cap.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\ic_cap.png"
-    },
-    {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
-    },
-    {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_hint.9.png.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\hint.9.png"
-    },
-    {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_hint.9.png.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\hint.9.png"
-    },
-    {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
-    },
-    {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
-    },
-    {
-        "merged": "E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
-        "source": "E:\\study\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\layout\\face_detect_surface_view.xml"
-    },
-    {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\layout\\face_detect_surface_view.xml"
-    },
-    {
-        "merged": "E:\\work\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_test1.jpg.flat",
-        "source": "E:\\work\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable\\test1.jpg"
+        "merged": "/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout_face_detect_surface_view.xml.flat",
+        "source": "/Users/mcablylx/face-detection/openCVSamplefacedetection/src/main/res/layout/face_detect_surface_view.xml"
     }
 ]

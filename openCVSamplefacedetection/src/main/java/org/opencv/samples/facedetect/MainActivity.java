@@ -6,6 +6,14 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Matrix;
+import android.graphics.Paint;
+import android.graphics.PointF;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.Drawable;
+import android.media.FaceDetector;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
@@ -149,6 +157,27 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
 
         }
+    }
+    private Bitmap parseBitmap(Bitmap bitmap2, int faceCount) {
+        Bitmap bitmap = Bitmap.createBitmap(bitmap2.getWidth(), bitmap2.getHeight(), Bitmap.Config.ARGB_8888);
+        Canvas canvas = new Canvas(bitmap);
+        Paint mPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+        mPaint.setColor(Color.YELLOW);
+        mPaint.setStrokeWidth(10);
+        mPaint.setStyle(Paint.Style.STROKE);
+
+       canvas.drawBitmap(bitmap2, 0, 0, mPaint);
+//        for (int i = 0; i < faceCount; i++) {
+//            //双眼的中心点
+//            PointF midPoint = new PointF();
+//            faces[i].getMidPoint(midPoint);
+//            //双眼的距离
+//            float eyeDistance = faces[i].eyesDistance();
+//            //画矩形
+//            canvas.drawRect(midPoint.x - eyeDistance, midPoint.y - eyeDistance, midPoint.x + eyeDistance, midPoint.y + eyeDistance, mPaint);
+//        }
+
+        return bitmap;
     }
 
 

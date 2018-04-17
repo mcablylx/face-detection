@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"outputFile":{"path":"E:\\study\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\manifests\\full\\debug\\AndroidManifest.xml"},"properties":{"packageId":"org.opencv.samples.facedetect","split":""}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"path":"AndroidManifest.xml","properties":{"packageId":"org.opencv.samples.facedetect","split":"","minSdkVersion":"18"}}]

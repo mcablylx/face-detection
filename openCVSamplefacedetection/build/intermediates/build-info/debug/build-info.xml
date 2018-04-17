@@ -1,35 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
     build-mode="FULL"
+    density="xxhdpi"
     format="10"
-    plugin-version="3.0.0-alpha3"
-    timestamp="1514545027150"
-    verifier="NOT_RUN" >
+    plugin-version="3.0.0"
+    timestamp="1514615526150"
+    token="8707075846508947194"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="63" />
+        duration="715" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="60" />
     <task
         name="verifier"
-        duration="0" />
+        duration="32" />
 
     <artifact
-        location="E:\study\face-detection\openCVSamplefacedetection\build\outputs\apk\debug\openCVSamplefacedetection-debug.apk"
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/outputs/apk/debug/openCVSamplefacedetection-debug.apk"
         type="SPLIT_MAIN" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1514545027150"
-        verifier="NOT_RUN" >
+        timestamp="1514615526150"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\study\face-detection\openCVSamplefacedetection\build\outputs\apk\debug\openCVSamplefacedetection-debug.apk"
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/outputs/apk/debug/openCVSamplefacedetection-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mcablylx/face-detection/openCVSamplefacedetection/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>
